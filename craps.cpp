@@ -1,10 +1,3 @@
-/*
-CSE-1502 Section 3
-craps.cpp
-Purpose: Run a program as a craps machine
-@author Jeremy Jennings
-@date 11/09/2016
-*/
 
 #include<iostream>
 #include<cstring>
